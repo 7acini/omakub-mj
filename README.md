@@ -1,3 +1,5 @@
+THIS PROJECT IS NOW OBSOLETE. USE OMARCHY INSTEAD: https://github.com/basecamp/omarchy
+
 # Omakub-MJ
 
 Turn a fresh Manjaro GNOME installation into a fully-configured, beautiful, and modern web development system by running a single command. That's the one-line pitch for Omakub-MJ. No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omakub-MJ is an opinionated take on what Linux can be at its best.
